@@ -1,5 +1,5 @@
 # Getting Started
-Currently, only Windows quick start instructions are provided because it is the most common operating system.
+Currently, only Windows quick start instructions are provided.
 
 ## Windows
 To get started easily with Windows and Visual Studio Code follow the following steps:
