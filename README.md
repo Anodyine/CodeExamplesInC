@@ -19,7 +19,7 @@ To get started easily with Windows and Visual Studio Code follow the following s
 10. Type in C:\msys64\mingw64\bin
 11. Click Ok
 
-  ### Installing Visual Studio and Extensions
+### Installing Visual Studio and Extensions
 7. Download and install Visual Studio Code from here: https://code.visualstudio.com/Download
 8. Open Visual Studio Code
 9. Click on the Extensions tab on the left bar. It is the one with 4 boxes. Three boxes connected in an L shape and one box is floating in the top right of the icon
@@ -29,7 +29,7 @@ To get started easily with Windows and Visual Studio Code follow the following s
 13. Install the one with .run in the icon
 14. Restart Visual Studio Code
 
-    ### Making a Test Project
+### Making a Test Project
 16. Click on File -> Add Folder to Workspace
 17. Right click in the window near the center in the blank space and select New -> Folder
 18. Name it whatever you like (it can be just for testing)
@@ -50,7 +50,7 @@ int main() {
 26. Click run
 27. You should see the code run in the bottom panel
 
-    ### Set Up Run in Terminal (So we can receive user input)
+### Set Up Run in Terminal (So we can receive user input)
 29. Click on File -> Preferences -> Settings
 30. Scroll down the Run Code configuration and click on it
 31. Scroll down until you see Run in Terminal and click on that box to check it
