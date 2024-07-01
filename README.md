@@ -1,5 +1,5 @@
 # Getting Started
-Currently, only Windows quick start instructions are provided.
+Currently, only Windows setup instructions are provided.
 
 ## Windows
 To get started easily with Windows and Visual Studio Code follow the following steps:
